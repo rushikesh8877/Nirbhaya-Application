@@ -1,7 +1,7 @@
 ## NIRBHAYA
 #### Download From- https://github.com/rushikesh8877/Nirbhaya-Application/releases/tag/v1.0.0
 
-## Installation Guide
+<span style="color:red">Installation Guide</span>
 
 > **Note:** The app is currently not licensed or verified. It requires important permissions, so Google Play Protect blocks the APK installation. For testing, Play Protect need to be turned off temporarily before installation.
 
