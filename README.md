@@ -51,3 +51,5 @@ Analyzes the surrounding area and provides a risk score based on factors such as
 * Hospital
 * Police station
 * Other nearby safety-related facilities
+
+Nirbhaya_repository- https://github.com/rushikesh8877/Nirbhaya
