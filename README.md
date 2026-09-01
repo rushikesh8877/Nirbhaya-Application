@@ -46,11 +46,16 @@ Open the application settings and add an emergency contact.
 
 ## 🟢 Functions
 
+> When an emergency response is triggered, the app shares two links — current coordinates and live location — with the emergency contact. Sharing stops when the victim taps **"I am Safe."**
+
 ### Manual SOS
 Allows the user to manually trigger an emergency response.
 
 ### AI Voice Detection
 Detects emergency/distress voice keywords and triggers the emergency response.
+
+### Shake / Drop Detection
+When AI Voice Detection is on, detects sudden shake or drop of the phone and triggers the emergency response.
 
 ### Area Safety Check
 The user enters an area name and gets a risk rank for that area.
