@@ -1,7 +1,17 @@
-## NIRBHAYA
-#### Download From- https://github.com/rushikesh8877/Nirbhaya-Application/releases/tag/v1.0.0
+<h1 align="center">🛡️ NIRBHAYA</h1>
 
-## Installation Guide
+<p align="center">
+  <a href="https://github.com/rushikesh8877/Nirbhaya-Application/releases/tag/v1.0.0">
+    <img src="https://img.shields.io/badge/Download-APK-brightgreen?style=for-the-badge&logo=android&logoColor=white" alt="Download APK"/>
+  </a>
+  <a href="https://github.com/rushikesh8877/Nirbhaya">
+    <img src="https://img.shields.io/badge/Repository-Nirbhaya-181717?style=for-the-badge&logo=github&logoColor=white" alt="Nirbhaya Repository"/>
+  </a>
+</p>
+
+---
+
+## 🔴 Installation Guide
 
 > **Note:** The app is currently not licensed or verified. It requires important permissions, so Google Play Protect blocks the APK installation. For testing, Play Protect need to be turned off temporarily before installation.
 
@@ -22,7 +32,7 @@ Open the application settings and add an emergency contact.
 
 ---
 
-## Required Permissions and Their Uses
+## 🟠 Required Permissions and Their Uses
 
 | Permission                                          | Use                                                                       |
 | ---------------------------------------------------- | -------------------------------------------------------------------------- |
@@ -34,7 +44,7 @@ Open the application settings and add an emergency contact.
 
 ---
 
-## Functions
+## 🟢 Functions
 
 ### Manual SOS
 Allows the user to manually trigger an emergency response.
@@ -53,4 +63,10 @@ Analyzes the surrounding area and provides a risk score based on factors such as
 * Police station
 * Other nearby safety-related facilities
 
-Nirbhaya_repository- https://github.com/rushikesh8877/Nirbhaya
+---
+
+<p align="center">
+  <a href="https://github.com/rushikesh8877/Nirbhaya">
+    <img src="https://img.shields.io/badge/View-Nirbhaya%20Repository-blue?style=for-the-badge&logo=github&logoColor=white" alt="Nirbhaya Repository Link"/>
+  </a>
+</p>
